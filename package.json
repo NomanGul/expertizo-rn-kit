@@ -10,7 +10,7 @@
     "expo": "^31.0.0",
     "firebase": "^5.8.1",
     "formik": "^1.4.3",
-    "react": "16.5.0",
+    "react": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
     "react-navigation": "^3.1.2",
     "react-redux": "^6.0.0",
